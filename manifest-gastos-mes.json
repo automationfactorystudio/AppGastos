@@ -1,0 +1,29 @@
+{
+  "name": "Control de Gastos — AppDeHoy",
+  "short_name": "Gastos",
+  "description": "Controla tus gastos del mes por categorías, define presupuestos y compara meses. Sin internet, sin registro.",
+  "start_url": "./appdeboy-gastos-mes.html",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#8B5E3C",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "categories": [
+    "finance",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-appdeboy-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-appdeboy-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
